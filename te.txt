@@ -3,4 +3,5 @@ my first test b
 my c
 my d
 branch test
-master
+master 
+feature1 
