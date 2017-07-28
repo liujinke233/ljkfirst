@@ -6,3 +6,5 @@ branch test
 master 
 feature1 
 no--ff
+ff
+ff2
