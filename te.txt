@@ -5,3 +5,4 @@ my d
 branch test
 master 
 feature1 
+no--ff
